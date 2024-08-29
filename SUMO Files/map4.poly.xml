@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/10/24 23:07:01 by Eclipse SUMO polyconvert Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="map4.net.xml"/>
+        <osm-files value="map4.osm"/>
+        <type-file value="typemap.xml"/>
+    </input>
+
+    <output>
+        <output-file value="map4.poly.xml"/>
+    </output>
+
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-528677.71,-4057733.59" convBoundary="-0.00,0.00,2618.21,1428.52" origBoundary="51.320916,36.664763,51.350231,36.677626" projParameter="+proj=utm +zone=39 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <poi id="6163389111" type="unknown" color="51,128,255" layer="4.00" x="741.91" y="213.89"/>
+    <poi id="6173193650" type="shop" color="237,199,255" layer="4.00" x="730.57" y="218.76"/>
+    <poi id="6173193652" type="shop" color="237,199,255" layer="4.00" x="631.82" y="240.83"/>
+</additional>
